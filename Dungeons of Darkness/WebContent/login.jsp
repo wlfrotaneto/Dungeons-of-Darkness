@@ -22,7 +22,7 @@
 			<div class="wrap-login100 p-l-50 p-r-50 p-t-77 p-b-30">
 				<form class="login100-form validate-form" action="LoginServlet" method="post">
 					<span class="login100-form-title p-b-55">
-						Dungeons of Darkness
+						<li><a href="index.jsp">Dungeons of Darkness</a></li>
 					</span>
 
 					<div class="wrap-input100 validate-input m-b-16" data-validate = "Email válido é requerido: ex@abc.xyz">
